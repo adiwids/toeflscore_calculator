@@ -1,0 +1,44 @@
+<!--
+    PBT TOEFL Score Calculator
+    Author: Adi Widyawan
+    Description: I made a simple TOEFL score calculator based on PBT Scoring Chart
+                It's just a simple tool to help you calculate your PBT score according to
+                your (estimated) numbers of correct answers on each sections.
+                It isn't a perfect tool, I beg your input to build it more usefull.
+                Thanks & regards.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PBT TOEFL Score Calculator</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <script type="text/javascript" src="toeflobject.js"></script>
+        <style>
+            input[type=text] { text-align: right;}
+            #toeflscore { font-weight: bold; color: #FF0000; }
+        </style>
+    </head>
+    <body>
+        <h1>PBT TOEFL Score Calculator</h1>
+        <h3>
+            Please insert numbers of your (estimated) correct answers on Section 1, 2, and 3!
+        </h3>
+        <label for="section1">Section 1:</label>
+        <input type="text" id="section1" name="section1" /> | 
+        <label for="section2">Section 2:</label>
+        <input type="text" id="section2" name="section2" /> | 
+        <label for="section3">Section 3:</label>
+        <input type="text" id="section3" name="section3" />
+        <input type="button" id="calculate" value="Calculate" />
+        <script type="text/javascript" src="app.js"></script>
+        <div>
+            <span>Your TOEFL Score is</span> : <span id="toeflscore">-</span>
+        </div>
+        <hr />
+        <div>
+            <p>
+                This scoring calculation is based on PBT TOEFL Test Scoring Chart on <a target="_blank" href="http://www.toeflskill.com/2011/01/toefl-scoring-charts.html">TOEFLSkill.com</a>
+            </p>
+        </div>
+    </body>
+</html>

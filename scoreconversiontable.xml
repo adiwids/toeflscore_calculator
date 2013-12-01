@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Score Conversion Table
+    Based on TOEFL PBT Scoring Chart
+    Source: http://www.toeflskill.com/2011/01/toefl-scoring-charts.html
+    Author: Adi Widyawan
+-->
+<ScoreTable>
+    <CorrectAnswer nums="50">
+        <Section1>68</Section1>
+        <Section2>null</Section2>
+        <Section3>67</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="49">
+        <Section1>67</Section1>
+        <Section2>null</Section2>
+        <Section3>66</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="48">
+        <Section1>68</Section1>
+        <Section2>null</Section2>
+        <Section3>67</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="47">
+        <Section1>65</Section1>
+        <Section2>null</Section2>
+        <Section3>63</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="46">
+        <Section1>63</Section1>
+        <Section2>null</Section2>
+        <Section3>61</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="45">
+        <Section1>62</Section1>
+        <Section2>null</Section2>
+        <Section3>60</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="44">
+        <Section1>61</Section1>
+        <Section2>null</Section2>
+        <Section3>59</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="43">
+        <Section1>60</Section1>
+        <Section2>null</Section2>
+        <Section3>58</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="42">
+        <Section1>59</Section1>
+        <Section2>null</Section2>
+        <Section3>57</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="41">
+        <Section1>58</Section1>
+        <Section2>null</Section2>
+        <Section3>56</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="40">
+        <Section1>57</Section1>
+        <Section2>68</Section2>
+        <Section3>55</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="39">
+        <Section1>57</Section1>
+        <Section2>67</Section2>
+        <Section3>54</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="38">
+        <Section1>56</Section1>
+        <Section2>65</Section2>
+        <Section3>54</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="37">
+        <Section1>55</Section1>
+        <Section2>53</Section2>
+        <Section3>53</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="36">
+        <Section1>54</Section1>
+        <Section2>61</Section2>
+        <Section3>52</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="35">
+        <Section1>54</Section1>
+        <Section2>60</Section2>
+        <Section3>52</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="34">
+        <Section1>53</Section1>
+        <Section2>58</Section2>
+        <Section3>51</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="33">
+        <Section1>52</Section1>
+        <Section2>57</Section2>
+        <Section3>50</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="32">
+        <Section1>52</Section1>
+        <Section2>56</Section2>
+        <Section3>49</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="31">
+        <Section1>51</Section1>
+        <Section2>55</Section2>
+        <Section3>48</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="30">
+        <Section1>51</Section1>
+        <Section2>54</Section2>
+        <Section3>48</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="29">
+        <Section1>50</Section1>
+        <Section2>53</Section2>
+        <Section3>47</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="28">
+        <Section1>49</Section1>
+        <Section2>52</Section2>
+        <Section3>46</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="27">
+        <Section1>49</Section1>
+        <Section2>51</Section2>
+        <Section3>46</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="26">
+        <Section1>48</Section1>
+        <Section2>50</Section2>
+        <Section3>45</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="25">
+        <Section1>48</Section1>
+        <Section2>49</Section2>
+        <Section3>44</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="24">
+        <Section1>47</Section1>
+        <Section2>48</Section2>
+        <Section3>43</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="23">
+        <Section1>47</Section1>
+        <Section2>47</Section2>
+        <Section3>43</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="22">
+        <Section1>46</Section1>
+        <Section2>46</Section2>
+        <Section3>42</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="21">
+        <Section1>45</Section1>
+        <Section2>45</Section2>
+        <Section3>41</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="20">
+        <Section1>45</Section1>
+        <Section2>44</Section2>
+        <Section3>40</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="19">
+        <Section1>44</Section1>
+        <Section2>43</Section2>
+        <Section3>39</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="18">
+        <Section1>43</Section1>
+        <Section2>42</Section2>
+        <Section3>38</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="17">
+        <Section1>42</Section1>
+        <Section2>41</Section2>
+        <Section3>37</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="16">
+        <Section1>41</Section1>
+        <Section2>40</Section2>
+        <Section3>36</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="15">
+        <Section1>41</Section1>
+        <Section2>40</Section2>
+        <Section3>35</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="14">
+        <Section1>39</Section1>
+        <Section2>38</Section2>
+        <Section3>34</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="13">
+        <Section1>38</Section1>
+        <Section2>37</Section2>
+        <Section3>32</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="12">
+        <Section1>37</Section1>
+        <Section2>36</Section2>
+        <Section3>31</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="11">
+        <Section1>35</Section1>
+        <Section2>35</Section2>
+        <Section3>30</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="10">
+        <Section1>33</Section1>
+        <Section2>33</Section2>
+        <Section3>29</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="9">
+        <Section1>32</Section1>
+        <Section2>31</Section2>
+        <Section3>28</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="8">
+        <Section1>32</Section1>
+        <Section2>29</Section2>
+        <Section3>28</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="7">
+        <Section1>31</Section1>
+        <Section2>27</Section2>
+        <Section3>27</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="6">
+        <Section1>30</Section1>
+        <Section2>26</Section2>
+        <Section3>26</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="5">
+        <Section1>29</Section1>
+        <Section2>25</Section2>
+        <Section3>25</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="4">
+        <Section1>28</Section1>
+        <Section2>23</Section2>
+        <Section3>24</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="3">
+        <Section1>27</Section1>
+        <Section2>22</Section2>
+        <Section3>23</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="2">
+        <Section1>26</Section1>
+        <Section2>21</Section2>
+        <Section3>23</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="1">
+        <Section1>25</Section1>
+        <Section2>20</Section2>
+        <Section3>22</Section3>
+    </CorrectAnswer>
+    <CorrectAnswer nums="0">
+        <Section1>24</Section1>
+        <Section2>20</Section2>
+        <Section3>21</Section3>
+    </CorrectAnswer>
+</ScoreTable>
